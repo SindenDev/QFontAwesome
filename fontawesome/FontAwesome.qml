@@ -7,7 +7,7 @@ Text {
     verticalAlignment: Text.AlignVCenter
     horizontalAlignment: Text.AlignHCenter
     font.family: fontAwesome.name
-    font.pixelSize: 48
+    font.pixelSize: 18
     FontLoader { id: fontAwesome; source: "qrc:/fontawesome/FontAwesome.otf" }
 
 }
